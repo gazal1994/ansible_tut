@@ -1,1 +1,1 @@
-ubuntu@16.171.107.29
+ubuntu@16.171.107.29 ansible_ssh_private_key_file=/home/gazal/Desktop/terraform-projects/project-1/main-key.pem
